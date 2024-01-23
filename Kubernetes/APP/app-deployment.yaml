@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: geri3313/detyre-kursi:newest
+        image: edionpelari/detyre-kursi:newest
         imagePullPolicy: Always
         securityContext:
           allowPrivilegeEscalation: false
