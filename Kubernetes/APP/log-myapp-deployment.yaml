@@ -17,7 +17,7 @@ spec:
         image: myapp-image
         volumeMounts:
         - name: logs-volume
-          mountPath: /home/geri/Detyre-Kursi/logs
+          mountPath: /home/edion/Detyre-Kursi/logs
       volumes:
       - name: logs-volume
         persistentVolumeClaim:
