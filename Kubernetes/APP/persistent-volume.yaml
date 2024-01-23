@@ -8,5 +8,5 @@ spec:
   accessModes:
     - ReadWriteMany 
   hostPath:
-    path: "/home/geri/Detyre-Kursi/logs"
+    path: "/home/edion/Detyre-Kursi/logs"
 
